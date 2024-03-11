@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap')
+
+.navegador {
+	background-color:black;
+}
+
+.nav-link {
+	color: black; 
+}
+#text-home{
+	font-weight: 1000;
+}
+p{
+	text-align: justify;
+	font-size: 20px;
+	font-family: "Madimi One", sans-serif;
+  	font-weight: 400;
+
+}
+#creepy{
+	box-sizing: border-box;
+	background-color: #1c1c1c1c;
+	border-radius: 10px;
+
+}
